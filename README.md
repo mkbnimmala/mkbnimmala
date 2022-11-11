@@ -1,5 +1,6 @@
 - 👋 Hi, I’m Manikanta Bhaskar Nimmala
-- Working as Programmer Analyst Trinee at Cognizant Technology Solutions Pvt. Limited
+- 📍From Hyderabad, Telangana, India.
+- 💼 Working as Programmer Analyst Trinee at Cognizant Technology Solutions Pvt. Limited
 - 📫 To reach me mail "bhaskar.nimmala25@gmail.com"
 
 <!---
